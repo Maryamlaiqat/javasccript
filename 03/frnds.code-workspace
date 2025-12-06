@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../29"
+		},
+		{
+			"path": "../26"
+		},
+		{
+			"path": "../15"
+		},
+		{
+			"path": "../22"
+		},
+		{
+			"path": "../23"
+		},
+		{
+			"path": "../27"
+		},
+		{
+			"path": "../28"
+		},
+		{
+			"path": "../04"
+		},
+		{
+			"path": "../05"
+		},
+		{
+			"path": "../13"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js"
+	}
+}

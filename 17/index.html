@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <pre><code>console.log('hhy there')</code></pre>
+    <button id="clickbutton">click me</button>
+    <script>
+        const button=document.getElementById("clickbutton");
+        const container = document.getElementById("my-container");
+        let count=1;
+         button.addEventListener("click" , () =>{
+            const el=document.createElement("li");
+            el.innerText - count;
+            container .appendChild(el);
+            count++;
+         })
+    </script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../16"
+		},
+		{
+			"path": "../17"
+		},
+		{
+			"path": "../31"
+		},
+		{
+			"path": "../32"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js"
+	}
+}
